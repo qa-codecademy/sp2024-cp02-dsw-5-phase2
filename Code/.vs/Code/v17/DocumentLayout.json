@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\enums\\userroleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\enums\\userroleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Material.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\Material.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Material.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:54:39.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Category.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:49:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\CartItem.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\CartItem.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\CartItem.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:30:05.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Cart.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\Cart.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Cart.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:28:11.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\OrderItem.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:23:20.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Order.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:20:47.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\User.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:18:59.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Product.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:31:45.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\BaseEntity.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:29:10.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:44:07.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
