@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\enums\\userroleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\enums\\userroleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,18 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\enums\\userroleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\enums\\userroleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\enums\\materialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\enums\\materialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|c:\\users\\marko\\desktop\\sp2024-cp02-dsw-5-phase2\\code\\dropshippingwebstore-signature.domain\\enums\\categoryenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}|DropShippingWebStore-Signature.Domain\\DropShippingWebStore-Signature.Domain.csproj|solutionrelative:dropshippingwebstore-signature.domain\\enums\\categoryenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Material.cs",
               "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Material.cs",
               "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\Material.cs",
@@ -75,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Category.cs",
               "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\Category.cs",
@@ -88,20 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserRoleEnum.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
-              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
-              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
-              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T12:44:07.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\CartItem.cs",
               "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\CartItem.cs",
@@ -114,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Cart.cs",
               "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\Cart.cs",
@@ -127,20 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\OrderItem.cs",
               "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\OrderItem.cs",
               "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\OrderItem.cs",
               "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T10:23:20.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\Order.cs",
               "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\Order.cs",
@@ -153,13 +132,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\User.cs",
               "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\User.cs",
               "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\User.cs",
               "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Domain\\User.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T09:18:59.621Z",
               "EditorCaption": ""
@@ -179,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Domain\\BaseEntity.cs",
               "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Domain\\BaseEntity.cs",
@@ -192,28 +171,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MaterialEnum.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Enums\\MaterialEnum.cs",
-              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Enums\\MaterialEnum.cs",
-              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Enums\\MaterialEnum.cs",
-              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Enums\\MaterialEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserRoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
+              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
+              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Enums\\UserRoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T08:35:51.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryEnum.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Enums\\CategoryEnum.cs",
-              "RelativeDocumentMoniker": "DropShippingWebStore-Signature.Domain\\Enums\\CategoryEnum.cs",
-              "ToolTip": "C:\\Users\\marko\\Desktop\\sp2024-cp02-dsw-5-phase2\\Code\\DropShippingWebStore-Signature.Domain\\Enums\\CategoryEnum.cs",
-              "RelativeToolTip": "DropShippingWebStore-Signature.Domain\\Enums\\CategoryEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T08:32:50.222Z",
+              "WhenOpened": "2024-09-21T12:44:07.32Z",
               "EditorCaption": ""
             }
           ]

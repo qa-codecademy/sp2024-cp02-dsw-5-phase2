@@ -18,7 +18,7 @@ namespace DropShippingWebStore_Signature.Domain.Domain
         public string Address { get; set; }
         public string City { get; set; }
         public string State { get; set; }
-        public int Phone { get; set; }
+        public string Phone { get; set; }
         public ICollection<Order> Orders { get; set; } = new List<Order>();
         public int CartId { get; set; }
         public Cart Cart { get; set; }
