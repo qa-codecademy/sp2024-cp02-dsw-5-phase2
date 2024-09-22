@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropShippingWebStore-Signature.API", "DropShippingWebStore-Signature.API\DropShippingWebStore-Signature.API.csproj", "{2C6EA011-F876-4446-B1DB-C25B09AFA528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropShippingWebStore-Signature.DataAccess", "DropShippingWebStore-Signature.DataAccess\DropShippingWebStore-Signature.DataAccess.csproj", "{CBC84EDB-C83F-47D8-9AE1-89DA77274A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropShippingWebStore-Signature.Services", "DropShippingWebStore-Signature.Services\DropShippingWebStore-Signature.Services.csproj", "{E0A35257-2A32-4975-9D6D-A8003AED5F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropShippingWebStore-Signature.Helpers", "DropShippingWebStore-Signature.Helpers\DropShippingWebStore-Signature.Helpers.csproj", "{99629738-2920-4182-A3FE-CCE5F2CD5949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropShippingWebStore-Signature.Domain", "DropShippingWebStore-Signature.Domain\DropShippingWebStore-Signature.Domain.csproj", "{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropShippingWebStore-Signature.Mappers", "DropShippingWebStore-Signature.Mappers\DropShippingWebStore-Signature.Mappers.csproj", "{42B29BFD-FE2B-4ECD-9650-7022406DC4FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropShippingWebStore-Signature.DTOs", "DropShippingWebStore-Signature.DTOs\DropShippingWebStore-Signature.DTOs.csproj", "{0A462B85-EBD3-4F7F-A661-AB4B52BD53C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropShippingWebStore-Signature.Shared", "DropShippingWebStore-Signature.Shared\DropShippingWebStore-Signature.Shared.csproj", "{5D24C3D7-120D-401B-AF42-86EA6B2EF5B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6EA011-F876-4446-B1DB-C25B09AFA528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6EA011-F876-4446-B1DB-C25B09AFA528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6EA011-F876-4446-B1DB-C25B09AFA528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6EA011-F876-4446-B1DB-C25B09AFA528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC84EDB-C83F-47D8-9AE1-89DA77274A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC84EDB-C83F-47D8-9AE1-89DA77274A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC84EDB-C83F-47D8-9AE1-89DA77274A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC84EDB-C83F-47D8-9AE1-89DA77274A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A35257-2A32-4975-9D6D-A8003AED5F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A35257-2A32-4975-9D6D-A8003AED5F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A35257-2A32-4975-9D6D-A8003AED5F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A35257-2A32-4975-9D6D-A8003AED5F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99629738-2920-4182-A3FE-CCE5F2CD5949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99629738-2920-4182-A3FE-CCE5F2CD5949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99629738-2920-4182-A3FE-CCE5F2CD5949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99629738-2920-4182-A3FE-CCE5F2CD5949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1C523D-0B7B-4DBA-AF4F-D1F07F35EF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B29BFD-FE2B-4ECD-9650-7022406DC4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B29BFD-FE2B-4ECD-9650-7022406DC4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B29BFD-FE2B-4ECD-9650-7022406DC4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B29BFD-FE2B-4ECD-9650-7022406DC4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A462B85-EBD3-4F7F-A661-AB4B52BD53C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A462B85-EBD3-4F7F-A661-AB4B52BD53C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A462B85-EBD3-4F7F-A661-AB4B52BD53C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A462B85-EBD3-4F7F-A661-AB4B52BD53C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D24C3D7-120D-401B-AF42-86EA6B2EF5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D24C3D7-120D-401B-AF42-86EA6B2EF5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D24C3D7-120D-401B-AF42-86EA6B2EF5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D24C3D7-120D-401B-AF42-86EA6B2EF5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18AB2ED7-E6A9-4F59-8E21-AF900C33F4C6}
+	EndGlobalSection
+EndGlobal
