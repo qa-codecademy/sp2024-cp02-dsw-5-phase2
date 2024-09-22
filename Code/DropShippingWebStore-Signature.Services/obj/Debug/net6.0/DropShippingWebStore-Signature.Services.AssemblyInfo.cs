@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DropShippingWebStore-Signature.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cf98d079f2d43de3b11bd0ea040a772a6484c6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70df9b88230dc9405505c8be76cf0c5338cb9772")]
 [assembly: System.Reflection.AssemblyProductAttribute("DropShippingWebStore-Signature.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DropShippingWebStore-Signature.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
