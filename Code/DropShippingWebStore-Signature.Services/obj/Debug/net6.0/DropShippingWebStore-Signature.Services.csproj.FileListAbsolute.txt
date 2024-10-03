@@ -1,0 +1,12 @@
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\bin\Debug\net6.0\DropShippingWebStore-Signature.Services.deps.json
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\bin\Debug\net6.0\DropShippingWebStore-Signature.Services.dll
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\bin\Debug\net6.0\DropShippingWebStore-Signature.Services.pdb
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\DropShippingWebStore-Signature.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\DropShippingWebStore-Signature.Services.AssemblyInfoInputs.cache
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\DropShippingWebStore-Signature.Services.AssemblyInfo.cs
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\DropShippingWebStore-Signature.Services.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\DropShippingWebStore-Signature.Services.sourcelink.json
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\DropShippingWebStore-Signature.Services.dll
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\refint\DropShippingWebStore-Signature.Services.dll
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\DropShippingWebStore-Signature.Services.pdb
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\ref\DropShippingWebStore-Signature.Services.dll

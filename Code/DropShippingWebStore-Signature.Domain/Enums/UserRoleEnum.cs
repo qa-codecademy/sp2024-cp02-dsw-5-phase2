@@ -8,7 +8,8 @@ namespace DropShippingWebStore_Signature.Domain.Enums
 {
     public enum UserRoleEnum
     {
-        Customer = 1,
-        Admin,
+        Administrator = 1,
+        Customer ,
+        Guest,
     }
 }

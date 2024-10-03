@@ -28,8 +28,8 @@ namespace DropShippingWebStore_Signature.Domain.Domain
             }
         }
         public decimal DiscountPrice => OnSale ? Price * (1 - Discount / 100m) : Price;
-        public string ImageUrl { get; set; }
-        public string Description { get; set; }
+        public string ImageUrl { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
 
     }
 

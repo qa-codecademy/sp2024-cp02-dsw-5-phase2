@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DropShippingWebStore-Signature.API.props" />
+</Project>
