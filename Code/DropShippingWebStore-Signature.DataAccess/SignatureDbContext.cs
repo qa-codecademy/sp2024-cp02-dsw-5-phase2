@@ -1,6 +1,7 @@
 ﻿using DropShippingWebStore_Signature.Domain.Domain;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Identity.Client;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,12 +10,12 @@ using System.Threading.Tasks;
 
 namespace DropShippingWebStore_Signature.DataAccess
 {
-    public class SignatureDbContext : DbContext
+    public class SignatureDbContext : IdentityDbContext<IdentityUser>
     {
         public SignatureDbContext(DbContextOptions<SignatureDbContext> options) : base(options) { }
 
         //Dbsets
-        public DbSet<User> Users { get; set; }
+        //public DbSet<User> Users { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Material> Materials { get; set; }
@@ -23,6 +24,8 @@ namespace DropShippingWebStore_Signature.DataAccess
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             // Category to Products (One-to-Many)
             modelBuilder.Entity<Category>()
                 .HasMany(c => c.Products)

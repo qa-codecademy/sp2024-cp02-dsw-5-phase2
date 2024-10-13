@@ -8,7 +8,7 @@ namespace DropShippingWebStore_Signature.Domain.Domain
 {
     public class Cart : BaseEntity
     {
-        public int UserId { get; set; }
+        public string UserId { get; set; }
         public User User { get; set; }
         public ICollection<CartItem> CartItems { get; set; }
         public decimal TotalPrice { get; set; }

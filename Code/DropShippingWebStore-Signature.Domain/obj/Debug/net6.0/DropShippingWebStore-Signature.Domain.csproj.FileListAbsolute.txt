@@ -10,3 +10,4 @@ C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signat
 C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Domain\obj\Debug\net6.0\refint\DropShippingWebStore-Signature.Domain.dll
 C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Domain\obj\Debug\net6.0\DropShippingWebStore-Signature.Domain.pdb
 C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Domain\obj\Debug\net6.0\ref\DropShippingWebStore-Signature.Domain.dll
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Domain\obj\Debug\net6.0\DropShippingWebStore-Signature.Domain.csproj.AssemblyReference.cache

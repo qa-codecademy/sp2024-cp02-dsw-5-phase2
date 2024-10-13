@@ -10,3 +10,7 @@ C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signat
 C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\refint\DropShippingWebStore-Signature.Services.dll
 C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\DropShippingWebStore-Signature.Services.pdb
 C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\ref\DropShippingWebStore-Signature.Services.dll
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\DropShippingWebStore-Signature.Services.csproj.AssemblyReference.cache
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Services\obj\Debug\net6.0\DropShip.DFB34779.Up2Date

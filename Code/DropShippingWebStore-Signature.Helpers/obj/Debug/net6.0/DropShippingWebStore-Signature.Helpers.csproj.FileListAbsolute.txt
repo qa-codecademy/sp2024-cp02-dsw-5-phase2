@@ -16,3 +16,5 @@ C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signat
 C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Helpers\obj\Debug\net6.0\refint\DropShippingWebStore-Signature.Helpers.dll
 C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Helpers\obj\Debug\net6.0\DropShippingWebStore-Signature.Helpers.pdb
 C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Helpers\obj\Debug\net6.0\ref\DropShippingWebStore-Signature.Helpers.dll
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Helpers\bin\Debug\net6.0\DropShippingWebStore-Signature.Services.dll
+C:\Users\marko\Desktop\sp2024-cp02-dsw-5-phase2\Code\DropShippingWebStore-Signature.Helpers\bin\Debug\net6.0\DropShippingWebStore-Signature.Services.pdb
